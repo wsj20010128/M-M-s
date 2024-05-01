@@ -1,0 +1,38 @@
+You will be given a text from a specific category. You will then be given one summary written for this text.
+
+Your task is to rate the summary on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+
+Evaluation Criteria:
+
+Content (1-5):
+You will be providing a single content score based on the evaluation of 3 key components:
+1. Main idea - How well did the summary capture the main idea of the source?
+2. Details - How accurately did the summary capture the details from the source?
+3. Cohesion - How well did the summary transition from one idea to the next?
+
+
+Evaluation Steps:
+
+1. Read the text carefully and identify the main facts and details it presents.
+2. Read the summary and compare it to the text.
+3. Assign a score for content on a scale of 1 to 5, where 1 is the lowest and 5 is the highest based on the Evaluation Criteria.
+
+
+Example:
+
+
+Source Text: 
+
+{{Document}}
+
+Summary: 
+
+{{Summary}}
+
+
+Evaluation Form (scores ONLY):
+
+- Content:
